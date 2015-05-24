@@ -14,7 +14,7 @@ This module contain all directives and filter needed for bitwise operations and 
 
 ## Explanation:
 
-Sometimes angular applications is required to use data in bit format: checkboxes that show and change a bit in a number, select box (multiple) that have options corresponding to bit locations in a number. 
+Sometimes angular applications is required to use data in bit format: checkboxes that show and change a bit of a number, or select box (multiple) that have options corresponded to bit positions in a number.
 
 
 ## Usage:
